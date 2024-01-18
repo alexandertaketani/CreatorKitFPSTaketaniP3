@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Creator Kit - FPS/Scenes/BestLevelEver.unity
+    guid: f17623664d23a534c901b6d35a0dcd37
   m_configObjects: {}
